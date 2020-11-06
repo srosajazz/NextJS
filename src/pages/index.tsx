@@ -1,7 +1,10 @@
+
+import { Title } from '../styles/pages/Home';
+
 export default function Home() {
   return (
     <div>
-      <h1>Hello, Sergio!!</h1>
+      <Title>Hello, Sergio!!</Title>
     </div>
 
   )
